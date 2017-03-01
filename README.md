@@ -1,5 +1,5 @@
 # BMBT5130
-Files for Spring Semester BMBT Course - files were copied from RNRV project
+Files for Spring Semester BMBT Course - files were copied from RHRV project
 * example.beats
 * example2.beats
 * nonlinearHB.beats
